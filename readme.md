@@ -1,0 +1,1 @@
+Olá, as atividades da Sprint serão postadas aqui.
