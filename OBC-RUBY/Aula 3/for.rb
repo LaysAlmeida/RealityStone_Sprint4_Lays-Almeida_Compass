@@ -6,3 +6,5 @@ for x in fruits
     puts count
     count = count + 1
 end
+
+
