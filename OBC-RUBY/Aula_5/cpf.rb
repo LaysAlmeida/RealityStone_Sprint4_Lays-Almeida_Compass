@@ -11,7 +11,7 @@ end
 
 puts "Olá, verifique o seu CPF aqui!"
 print "Informe o seu CPF: "
-    cpf = gets.chomp.to_i
+    cpf = gets.chomp
 
 puts (val(cpf))
     
