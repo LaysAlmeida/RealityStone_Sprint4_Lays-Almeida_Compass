@@ -113,7 +113,7 @@
           bundle install
 
       # Para excecutar os testes, depois disso, escreva:
-        bundle exec rspec \specs\calculadora_spec.rb
+        bundle exec rspec \specs\calc_spec.rb
 
 
 
