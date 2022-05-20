@@ -98,14 +98,14 @@
 </div>
 
 <div>
-<h2>Como utilizar a calculadora:  </h2>
+<h2>⁉ | Como utilizar a calculadora:  </h2>
   <li>Antes, confira se o Ruby já se encontra instalado corretamente na sua máquina </li>               
 </div>
 <br>
 
     # Para começar, em seu terminal de preferência, instale a gem bundler com:
               gem install bundler
-
+ 
           # Entre na pasta do projeto:
             cd "Aulas - Ruby_TDD"
 
