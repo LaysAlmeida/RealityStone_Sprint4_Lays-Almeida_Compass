@@ -6,13 +6,13 @@
   
   <h2>⚙ | Tecnologias e Ferramentas Utilizadas</h2>
    
-  <p> Linguagem: </p>
+  <h3>Linguagem: </h3>
    
   <ul>
     <li> Ruby <img align="center" alt="Lays-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> </li>
    </ul>
   
-   <p>Feramenta: </p>
+   <h3>Feramenta: </h3>
   
    <ul>
     <li> Visual Studio Code <img align="center" alt="VS_Code" width="40" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> </li>
@@ -118,7 +118,7 @@
 
 
 <div>
-<h2> 🙋🏻‍♀️ | Autora: </h2>
+<h2> 🙋🏻‍♀️ | Author: </h2>
 <li>Lays Almeida</li>
 <h3>Contact me: </h3>
 </div>
