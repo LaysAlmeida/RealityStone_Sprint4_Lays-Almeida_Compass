@@ -1,0 +1,12 @@
+- git init
+- git add .
+- git add <nome_do_arquivo> 
+- git status
+- git commit -m "comentario"
+- git checkout -b <nome_da_branch>
+- git branch
+- git checkout <nome_da_branch>
+- git merge <nome_da_branch>
+- git remote add origin <link_do_repositorio>
+- git push origin <nome_da_branch>
+- git log
