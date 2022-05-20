@@ -68,19 +68,19 @@ describe ('Calculadora') do
 
     #Operações com potenciação
 
-    it('Deve realizar a potencição de um número inteiro com expoente positivo')do
+    it('Deve realizar a potenciação de um número inteiro com expoente positivo')do
         expect(calculadora.pot(2, 3)).to eq 8
     end
 
-    it('Deve realizar a potencição de um número qualquer com expoente 0')do
+    it('Deve realizar a potenciação de um número qualquer com expoente 0')do
         expect(calculadora.pot(10, 0)).to eq 1
     end
     
-    it('Deve realizar a potencição de um número inteiro com expoente negativo')do
+    it('Deve realizar a potenciação de um número inteiro com expoente negativo')do
         expect(calculadora.pot(2, -2)).to eq 0.25
     end
 
-    it('Deve realizar a potencição de um número inteiro negativo com expoente negativo')do
+    it('Deve realizar a potenciação de um número inteiro negativo com expoente negativo')do
         expect(calculadora.pot(-2, -3)).to eq -0.125
     end
 
